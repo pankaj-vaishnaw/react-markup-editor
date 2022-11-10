@@ -1,4 +1,4 @@
-import Screen from "./components/Screen.";
+import Screen from "./components/Screen";
 import Inputbox from "./components/Inputbox";
 import React,{ useState } from "react";
 
