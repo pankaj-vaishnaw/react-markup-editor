@@ -13,5 +13,6 @@ code {
 }
 
 .displayclass::first-letter{
+  background-color:EFF5F5;
   text-transform: capitalize;
 }
